@@ -14,6 +14,8 @@ if(!fs.existsSync('dist')){
 
 let builds = require('./config').getAllBuilds()
 
+
+
 build(builds)
 
 function build(builds){

@@ -1,0 +1,1 @@
+import { Vue as _Vue } from "./vue";
